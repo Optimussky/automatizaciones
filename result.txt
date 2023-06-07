@@ -1,0 +1,2 @@
+20    -  clean code:  https://github.com/sryvcr/clean-code-python-es
+21    -  clean architecture

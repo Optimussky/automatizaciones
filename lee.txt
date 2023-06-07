@@ -1,0 +1,22 @@
+Archivo de prueba en línea uno
+buscando en linea dos
+listado o indice de contenido
+trabajar con variables
+tipos de variables
+operadores lógicos
+estructuras de control
+ciclos o loops
+funciones
+trabajar con tuplas
+trabajar con listas
+trabajar con diccionarios
+trabajar con sets o conjuntos
+programación orientada a objetos
+Introducción a las clases
+Introducción a la herencia
+Introducción al polimorfismo
+Introducción a las clases Abstractas
+Inyección de Dependencias
+Clean code:  https://github.com/sryvcr/clean-code-python-es
+Clean architecture
+archivo fin de linea
